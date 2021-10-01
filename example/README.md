@@ -1,4 +1,4 @@
-# flutter_dash
+# example
 
 A new Flutter project.
 
